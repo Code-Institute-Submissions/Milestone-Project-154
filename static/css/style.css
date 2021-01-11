@@ -170,3 +170,18 @@ a:hover {
 a:active {
     color: #FFFF00;
 }
+
+/* ---------------------------------------------Media Queries*/
+
+@media (max-width: 400px) {
+
+.nav-container {
+    width: 20%;
+    padding-right: 54px;
+}
+
+.nav-link {
+    margin-top: 0;
+}
+
+}
