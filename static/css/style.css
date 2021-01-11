@@ -96,6 +96,13 @@ img {
     padding-bottom: 100px;
 }
 
+.carousel-drive {
+    width: 45%;
+    margin: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
 /* ---------------------------------------------Footer*/
 
 .footer {
