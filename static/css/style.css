@@ -91,6 +91,11 @@ img {
     height: auto;
 }
 
+.button {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
 /* ---------------------------------------------Footer*/
 
 .footer {
