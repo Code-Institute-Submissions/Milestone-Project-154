@@ -166,3 +166,55 @@ All fields will be mandatory to fill out.
 There will also be a submit button, but this can't be used unless all fields are filled out correctly. If the fields aren't filled out correctly a error message will display when clicking submit. 
 <br>
 <br>
+<br>
+
+## Technologies Used
+
+**HTML**
+<br>
+This has been used to structure the project.
+<br>
+<br>
+<br>
+**CSS**
+<br>
+This has been used to style the project.
+<br>
+<br>
+<br>
+**Bootstrap**
+<br>
+This has been used to create the projects main features such as the carousel gallery, quotation button, collapsable navigation bar and contact form.
+<br>
+<br>
+<br>
+**Font Awesome**
+<br>
+This has been used to import Expletus Sans font, Roboto font and the social media icons.
+<br>
+<br>
+<br>
+**GitHub**
+<br>
+This has been used to store and deploy the code for the project.
+<br>
+<br>
+<br>
+**GitPod**
+<br>
+This has been used to create the code for the project.
+<br>
+<br>
+<br>
+**Google Chrome Developer Tools**
+<br>
+This has been used to inspect the web pages and debug any issues.
+<br>
+<br>
+<br>
+**Balsamiq Wireframes**
+<br>
+This has been used to create the wireframes for the project.
+<br>
+<br>
+<br>
