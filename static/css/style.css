@@ -39,6 +39,58 @@ section {
     display: block;
 }
 
+.page-name {
+  font-family: "Expletus+Sans", sans-serif;  
+  text-transform: uppercase;
+  text-align: center;
+  color: #FFFF00;
+  padding-top: 85px;
+  font-size: 100px;
+}
+
+.header-line {
+    border: 1px solid #FFFF00;
+    width: 50%;
+}
+
+.home-image {
+    text-align: center;
+    display: block;
+    padding-top: 25px;
+}
+
+.home-text {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    display: block;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.review-text {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    display: block;
+    color: #000000;
+    font-weight: 400;
+    font-size: 16px;
+    font-style: italic;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 /* ---------------------------------------------Footer*/
 
 .footer {
