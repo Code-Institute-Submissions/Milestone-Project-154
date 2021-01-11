@@ -210,4 +210,17 @@ section {
     margin: auto;
 }
 
+.home-text, .tarmac-paving-text, .review-text {
+    font-size: 12px;
+    width: 85%;
+}
+
+.tarmac-paving-header {
+    font-size: 15px;
+}
+
+.carousel-drive {
+    width: 80%;
+}
+
 }
