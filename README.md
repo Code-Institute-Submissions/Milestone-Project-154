@@ -4,7 +4,9 @@
 
 The purpose of this project is to showcase everything I have learned within the HTML, CSS and User Centric modules of the Code Institute Full Stack Development course. A full list of technologies used can be found in the technologies section of this document.
 
-The purpose of the website for Empire Drives is to promote their business and showcase the services that they offer. The client wants the website to attract more customers and get them to take the first step by requesting a quotation. 
+The purpose of the website for Empire Drives is to promote their business and showcase the services that they offer. The client wants the website to attract more customers and get them to take the first step by requesting a quotation. Please see below for the link to the website.
+
+https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 <br>
 <br>
