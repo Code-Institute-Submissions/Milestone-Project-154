@@ -243,4 +243,18 @@ section {
     padding-left: 0px;
 }
 
+.page-name {
+    font-size: 60px;
+    padding-top: 60px;
+}
+
+.header-line {
+    width: 75%;
+}
+
+.home-image {
+    width: 80%;
+    margin: auto;
+}
+
 }    
