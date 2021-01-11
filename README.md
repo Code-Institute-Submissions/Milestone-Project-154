@@ -1,45 +1,166 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Milestone Project 1
 
-Welcome USER_NAME,
+## Purpose
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+The purpose of this project is to showcase everything I have learned within the HTML, CSS and User Centric modules of the Code Institute Full Stack Development course. A full list of technologies used can be found in the technologies section of this document.
 
-## Gitpod Reminders
+The purpose of the website for Empire Drives is to promote their business and showcase the services that they offer. The client wants the website to attract more customers and get them to take the first step by requesting a quotation. 
+<br>
+<br>
+<br>
+ 
+## UX
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### User Stories
 
-`python3 -m http.server`
+**Who** – Customer.
+<br>
+**Want** – To view previous work.
+<br>
+**Why** – So it gives me a better idea of what I want and what kind of service the business offers.
+<br>
+<br>
+**Who** – Customer.
+<br>
+**Want** – A quick quotation.
+<br>
+**Why** – To compare prices with other quotes I have received.
+<br>
+<br>
+**Who** – Customer.
+<br>
+**Want** – To see the pros and cons of each service.
+<br>
+**Why** – So I know what driveway to go for.
+<br>
+<br>
+**Who** – Customer.
+<br>
+**Want** – Contact details.
+<br>
+**Why** – So I can contact the business directly, rather than waiting for them to see my enquiry and contact me.
+<br>
+<br>
+<br>
 
-A blue button should appear to click: *Make Public*,
+### Structure
 
-Another blue button should appear to click: *Open Browser*.
+All pages will contain a sticky navigation bar at the top. This will become collapsable when on a mobile device. This will also be the only thing that is in the header.
+<br>
+<br>
+All pages will contain social media icons and contact information in the footer. On a mobile device only the icons will show.
+<br>
+<br>
+All pages will be responsive and the layouts will change according to the screen size.
+<br>
+<br>
+The Home page will outline what the business does.
+<br>
+<br>
+The Tarmac page will display what a tarmac drive will look like and the pro's of choosing it.
+<br>
+<br>
+The Paving page will display what a block paving drive will look like and the pro's of choosing it.
+<br>
+<br>
+The Contact page will display the buisness's contact information as well as a form that a customer can fill out to request a quotation.
+<br>
+<br>
+<br>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Design
 
-A blue button should appear to click: *Make Public*,
+#### Colour Scheme
+**Light Grey** - Background and navigzation links.
+<br>
+**Yellow** - Page header and hover affect on the navigation links.
+<br>
+**White** - Section text.
+<br>
+**Black** - Navigation bar, section text and footer text.
+<br>
+<br>
+#### Typography
+**Header** - Expletus Sans.
+<br>
+**Navigation Bar** - Roboto.
+<br>
+**Main Text** - Roboto.
+<br>
+<br>
+#### Wireframes
+To see the wireframes for all pages on both desktop and mobile view please click the below link.
+<br>
+[Wireframes](wireframes/wireframes.pdf)
+<br>
+<br>
+<br>
 
-Another blue button should appear to click: *Open Browser*.
+## Features
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Planned Features
 
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+**All Pages**
+<br>
+The header will contain a navigation bar. This will have 4 links which will direct you to the following pages; Home, Tarmac, Paving & Contact.
+<br>
+<br>
+The footer will contain 3 social media icons for Facebook, Instagram & Youtube which will direct you to the website of the icon selected.
+<br>
+The footer will also contact a section of text which will display contact information.
+<br>
+<br>
+The mobile view will get rid of the navigation bar and instead have a navigation button. When clicking this button the 4 navigation links will appear vertically on the page. 
+<br>
+<br>
+<br>
+**Home Page**
+<br>
+The body will contain the name of the business, Empire Drives. It will also have an image of previous work that has been carried out by the business.
+<br>
+<br>
+It will have a section of text which outlines who the business is, what services they offer and what customers had to say about their work. 
+<br>
+<br>
+Below the text there will be a "Request A Free Quotation" button which will link to the Contact Page.
+<br>
+<br>
+<br>
+**Tarmac Page**
+<br>
+The body will contain the name of the page, Tarmac. It will also have a carousal gallery which will display pictures of a tarmac drive.
+<br>
+<br>
+Clicking on the right side of the picture will take you to the next picture, clicking on the left side will take you to the previous picture.
+<br>
+<br>
+Below the gallery there will be a section of text explaining the pros of going with a tarmac drive.
+<br>
+<br>
+<br>
+**Paving Page**
+<br>
+The body will contain the name of the page, Paving. It will also have a carousal gallery which will display pictures of a paving drive.
+<br>
+<br>
+Clicking on the right side of the picture will take you to the next picture, clicking on the left side will take you to the previous picture. 
+<br>
+<br>
+Below the gallery there will be a section of text explaining the pros of going with a paving drive.
+<br>
+<br>
+<br>
+**Contact Page**
+<br>
+The body will contain the name of the page, Contact. It will have a contact form which will include the following fields; Name. Telephone, Email & Message. 
+<br>
+<br>
+The name field will require a text input, the telephone field will require a number input and the email field will require a email input. The message field will be flexible and can have any input.
+<br>
+<br>
+All fields will be mandatory to fill out. 
+<br>
+<br>
+There will also be a submit button, but this can't be used unless all fields are filled out correctly. If the fields aren't filled out correctly a error message will display when clicking submit. 
+<br>
+<br>
