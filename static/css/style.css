@@ -184,4 +184,16 @@ a:active {
     margin-top: 0;
 }
 
+section {
+    min-height: 90%;
+}
+
+.contactfooter {
+    display: none;
+}
+
+.list-inline {
+    padding-left: 0px;
+}
+
 }
