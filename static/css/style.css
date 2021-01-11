@@ -240,8 +240,8 @@ section {
     margin: auto;
 }
 
-.home-text, .tarmac-paving-text, .review-text {
-    font-size: 12px;
+.home-text, .tarmac-paving-text, .contact-paragraph, .contact-information, .review-text {
+    font-size: 14px;
     width: 85%;
 }
 
