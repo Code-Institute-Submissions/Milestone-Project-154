@@ -250,3 +250,25 @@ To resolve this I added more text content to the Home, Tarmac and Paving pages.
 <br>
 <br>
 <br>
+
+## Deployment
+
+**GitPod Deployment**
+<br>
+* Open the MilestoneProject-1 repository and click the GitPod button in the top right.
+* In the command console type the following and hit enter: python3 -m http.server 3000
+* Go to the Open Ports tab next to the command console.
+* Click the Open Browser button for port 3000, this will display a preview of the website.
+<br>
+<br>
+
+**GitHub Deployment**
+<br>
+* Open the MilestoneProject-1 repository.
+* Click the "Settings" tab.
+* Scroll down to "GitHub Pages" and select the branch as master and the folder as root.
+* Save the changes.
+* Click on the provided link to go to the published website.
+<br>
+<br>
+<br>
