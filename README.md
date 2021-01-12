@@ -31,7 +31,7 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 **Why** – To compare prices with other quotes I have received.
 <br>
-[Screenshot of user story being fulfilled](static/images/userstory2.jpeg)
+[<img src="static/images/userstory2.jpeg)">]
 <br>
 <br>
 <br>
