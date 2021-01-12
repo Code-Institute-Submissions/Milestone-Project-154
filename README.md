@@ -272,3 +272,19 @@ To resolve this I added more text content to the Home, Tarmac and Paving pages.
 <br>
 <br>
 <br>
+
+## Credits
+
+### Content
+The text for the Tarmac page was taken from https://www.premiersurfacing.co.uk/hints-tips/the-benefits-of-tarmac-driveways/
+<br>
+The text for the Paving page was taken from https://www.premiersurfacing.co.uk/hints-tips/5-benefits-block-paving/
+
+### Media
+All images were used from the following sites:
+<br>
+https://www.pixabay.com
+<br>
+https://www.pexels.com
+<br>
+https://www.unsplash.com
