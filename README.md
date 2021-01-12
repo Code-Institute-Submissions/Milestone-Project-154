@@ -21,6 +21,9 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 **Why** – So it gives me a better idea of what I want and what kind of service the business offers.
 <br>
+[Screenshot of user story being fulfilled](static/images/userstory1.jpeg)
+<br>
+<br>
 <br>
 **Who** – Customer.
 <br>
@@ -28,7 +31,7 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 **Why** – To compare prices with other quotes I have received.
 <br>
-[Screenshot of user story being fulfilled](static/images/userstory1.jpeg)
+[Screenshot of user story being fulfilled](static/images/userstory2.jpeg)
 <br>
 <br>
 <br>
@@ -38,6 +41,8 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 **Why** – So I know what driveway to go for.
 <br>
+[Screenshot of user story being fulfilled](static/images/userstory3.jpeg)
+<br>
 <br>
 <br>
 **Who** – Customer.
@@ -45,6 +50,8 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 **Want** – Contact details.
 <br>
 **Why** – So I can contact the business directly, rather than waiting for them to see my enquiry and contact me.
+<br>
+[Screenshot of user story being fulfilled](static/images/userstory2.jpeg)
 <br>
 <br>
 <br>
