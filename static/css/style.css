@@ -274,6 +274,15 @@ section {
     font-size: 15px;
 }
 
+.button {
+    width: 75%;
+    margin: auto;
+}
+
+#quote-button {
+    font-size: 12px;
+}
+
 .carousel-drive {
     width: 80%;
 }
