@@ -21,7 +21,7 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 **Why** – So it gives me a better idea of what I want and what kind of service the business offers.
 <br>
-[Screenshot of user story being fulfilled](static/images/userstory1.jpeg)
+[Screenshot of user story being fulfilled](static/images/userstory1)
 <br>
 <br>
 <br>
