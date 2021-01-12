@@ -241,7 +241,7 @@ section {
 }
 
 .home-text, .tarmac-paving-text, .contact-paragraph, .contact-information, .review-text {
-    font-size: 14px;
+    font-size: 12px;
     width: 85%;
 }
 
@@ -285,6 +285,11 @@ section {
 .home-image {
     width: 80%;
     margin: auto;
+}
+
+.home-text, .tarmac-paving-text, .contact-paragraph, .contact-information, .review-text {
+    font-size: 14px;
+    width: 85%;
 }
 
 }    
