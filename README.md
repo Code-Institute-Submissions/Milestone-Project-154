@@ -166,6 +166,14 @@ All fields will be mandatory to fill out.
 There will also be a submit button, but this can't be used unless all fields are filled out correctly. If the fields aren't filled out correctly a error message will display when clicking submit. 
 <br>
 <br>
+
+### Features Left to Implement
+
+**Review Page**
+<br>
+The customer would like a page for customer reviews. It will need a review form that the customer will need to fill out to submit their review. This will then need to be checked by the customer before it goes onto the page to prevent any spam. This was not apart of the original plan and will be implemented in the future. 
+<br>
+<br>
 <br>
 
 ## Technologies Used
