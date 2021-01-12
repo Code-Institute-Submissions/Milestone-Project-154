@@ -133,37 +133,33 @@ img {
     margin-right: auto;
 }
 
-.contact-paragraph {
+.contact-section {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.contact-text {
     font-family: "Roboto", sans-serif;
-    color: #ffffff;
+    text-align: center;
+    display: block;
+    color: #000000;
     font-weight: 400;
-    font-size: 16px; 
+    font-size: 16px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .contact-information {
     font-family: "Roboto", sans-serif;
-    color: #000000;
-    font-weight: 400;
-    font-size: 16px;
-}
-
-.contact-text-1 {
-    width: 200px;
-    display: inline-block;
     text-align: center;
-    vertical-align: text-top;
-}
-
-.contact-text-2 {
-    width: 200px;
-    display: inline-block;
-    text-align: center;
-    vertical-align: text-top;
-}
-
-.contact-section {
-    text-align: center;
-    padding-top: 20px;
+    display: block;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .contact-form {
@@ -267,13 +263,14 @@ section {
     margin: auto;
 }
 
-.home-text, .tarmac-paving-text, .contact-paragraph, .contact-information, .review-text {
+.home-text, .tarmac-paving-text, .review-text, .contact-text {
     font-size: 12px;
     width: 85%;
 }
 
-.tarmac-paving-header {
+.tarmac-paving-header, .contact-information {
     font-size: 15px;
+    width: 60%;
 }
 
 .button {
@@ -287,24 +284,6 @@ section {
 
 .carousel-drive {
     width: 80%;
-}
-
-.contact-text-1 {
-    display: block;
-    display: flex;
-    justify-content: center;
-}
-
-.contact-text-2 {
-    display: block;
-    display: flex;
-    justify-content: center;
-}
-
-.contact-container {
-    display: flex;
-    justify-content: center;
-    width: 100%;
 }
 
 .contact-form {
@@ -346,32 +325,13 @@ section {
     margin: auto;
 }
 
-.home-text, .tarmac-paving-text, .contact-paragraph, .contact-information, .review-text {
+.home-text, .tarmac-paving-text, .review-text, .contact-text {
     font-size: 14px;
     width: 85%;
 }
 
 .carousel-drive {
     width: 80%;
-}
-
-.contact-text-1 {
-    display: block;
-    display: flex;
-    justify-content: center;
-        
-}
-
-.contact-text-2 {
-    display: block;
-    display: flex;
-    justify-content: center;
-}
-
-.contact-container {
-    display: flex;
-    justify-content: center;
-    width: 100%;
 }
 
 .contact-form {
@@ -387,7 +347,7 @@ section {
     min-height: 91%;
 }
 
-.home-text, .tarmac-paving-text, .contact-paragraph, .contact-information, .review-text {
+.home-text, .tarmac-paving-text, .review-text, .contact-text {
     font-size: 15px;
     width: 75%;
 }
