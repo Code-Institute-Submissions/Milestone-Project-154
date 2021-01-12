@@ -28,12 +28,16 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 **Why** – To compare prices with other quotes I have received.
 <br>
+[Screenshot of user story being fulfilled](static/images/userstory1.jpeg)
+<br>
+<br>
 <br>
 **Who** – Customer.
 <br>
 **Want** – To see the pros and cons of each service.
 <br>
 **Why** – So I know what driveway to go for.
+<br>
 <br>
 <br>
 **Who** – Customer.
