@@ -227,3 +227,26 @@ To see the tests that were carried please click the below link.
 <br>
 <br>
 <br>
+
+## Issues
+
+**Footer would not stay at the bottom**
+<br>
+To resolve this I made the footer sticky by using code from the following website.
+<br>
+https://css-tricks.com/couple-takes-sticky-footer/
+<br>
+<br>
+<br>
+**Collapsible nav bar links took up too much space on small devices**
+<br>
+To resolve this I made the nav bar links appear vertical rather than horizontal. 
+<br>
+<br>
+<br>
+**There was alot of space between the section and footer on larger devices**
+<br>
+To resolve this I added more text content to the Home, Tarmac and Paving pages.
+<br>
+<br>
+<br>
