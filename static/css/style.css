@@ -159,6 +159,11 @@ img {
     vertical-align: text-top;
 }
 
+.contact-section {
+    text-align: center;
+    padding-top: 20px;
+}
+
 /* ---------------------------------------------Footer*/
 
 .footer {
