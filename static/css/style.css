@@ -371,6 +371,11 @@ section {
     width: 100%;
 }
 
+.contact-form {
+    width: 65%;
+    font-size: 14px;
+}
+
 }    
 
 @media (max-height: 1400px) and (min-height: 1200px) {
