@@ -6,7 +6,7 @@ The purpose of this project is to showcase everything I have learned within the 
 
 The purpose of the website for Empire Drives is to promote their business and showcase the services that they offer. The client wants the website to attract more customers and get them to take the first step by requesting a quotation. Please see below for the link to the website.
 
-https://sanjaysanghera.github.io/MilestoneProject-1/
+https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 <br>
 <br>
@@ -263,7 +263,7 @@ To resolve this I added more text content to the Home, Tarmac and Paving pages.
 
 **GitPod Deployment**
 <br>
-* Open the MilestoneProject-1 repository and click the GitPod button in the top right.
+* Open the Milestone-Project-1 repository and click the GitPod button in the top right.
 * In the command console type the following and hit enter: python3 -m http.server 3000
 * Go to the Open Ports tab next to the command console.
 * Click the Open Browser button for port 3000, this will display a preview of the website.
@@ -272,7 +272,7 @@ To resolve this I added more text content to the Home, Tarmac and Paving pages.
 
 **GitHub Deployment**
 <br>
-* Open the MilestoneProject-1 repository.
+* Open the Milestone-Project-1 repository.
 * Click the "Settings" tab.
 * Scroll down to "GitHub Pages" and select the branch as master and the folder as root.
 * Save the changes.
