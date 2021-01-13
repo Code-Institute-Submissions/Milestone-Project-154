@@ -240,9 +240,19 @@ This has been used to create the wireframes for the project.
 
 ## Testing
 
-To see the tests that were carried please click the below link.
+Below is all the tests that have been carried out.
 <br>
-[Testing Results](testing/ms1testing.xlsx)
+
+**Test that all links are working and go the the correct page.**
+<br>
+1. Open website in browser.
+2. Click on the Tarmac link and ensure it goes to the Tarmac page.
+3. Click on the Contact link and ensure it goes to the Contact page.
+4. Click on the Home link and ensure it goes to the Home page.
+5. Click on the Request A Free Quotation button on the Home Page and ensures it goes to the Contact page.
+6. Click on the Facebook icon in the footer and ensure it goes to the home page of Facebook.
+7. Click on the Instagram icon in the footer and ensure it goes to the home page of Instagram.
+8. Click on the Youtube icon in the footer and ensure it goes to the home page of Youtube.
 <br>
 <br>
 <br>
