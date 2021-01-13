@@ -200,7 +200,7 @@ height: 100px;
 }
 
 /* Contact footer font style, size and positioning */
-.contactfooter {
+.contact-footer {
     font-family: "Roboto", sans-serif;
     text-align: center;
     font-size: 13px;
@@ -313,7 +313,7 @@ section {
     min-height: 80%;
 }
 
-.contactfooter {
+.contact-footer {
     display: none;
 }
 
