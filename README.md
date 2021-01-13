@@ -70,14 +70,12 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 **Black** - Navigation bar, section text and footer text.
 <br>
-<br>
 #### Typography
 **Header** - Expletus Sans.
 <br>
 **Navigation Bar** - Roboto.
 <br>
 **Main Text** - Roboto.
-<br>
 <br>
 #### Wireframes
 To see the wireframes for all pages on both desktop and mobile view please click the below link.
@@ -134,45 +132,14 @@ The customer would like a page for customer reviews. It will need a review form 
 
 ## Technologies Used
 
-**HTML**
-<br>
-This has been used to structure the project.
-<br>
-<br>
-**CSS**
-<br>
-This has been used to style the project.
-<br>
-<br>
-**Bootstrap**
-<br>
-This has been used to create the projects main features such as the carousel gallery, quotation button, collapsable navigation bar and contact form.
-<br>
-<br>
-**Font Awesome**
-<br>
-This has been used to import Expletus Sans font, Roboto font and the social media icons.
-<br>
-<br>
-**GitHub**
-<br>
-This has been used to store and deploy the code for the project.
-<br>
-<br>
-**GitPod**
-<br>
-This has been used to create the code for the project.
-<br>
-<br>
-**Google Chrome Developer Tools**
-<br>
-This has been used to inspect the web pages and debug any issues.
-<br>
-<br>
-**Balsamiq Wireframes**
-<br>
-This has been used to create the wireframes for the project.
-<br>
+* **HTML** - This has been used to structure the project.
+* **CSS** - This has been used to style the project.
+* **Bootstrap** - This has been used to create the projects main features such as the carousel gallery, quotation button, collapsable navigation bar and contact form.
+* **Font Awesome** - This has been used to import Expletus Sans font, Roboto font and the social media icons.
+* **GitHub** - This has been used to store and deploy the code for the project.
+* **GitPod** - This has been used to create the code for the project.
+* **Google Chrome Developer Tools** - This has been used to inspect the web pages and debug any issues.
+* **Balsamiq Wireframes** - This has been used to create the wireframes for the project.
 
 ## Testing
 
