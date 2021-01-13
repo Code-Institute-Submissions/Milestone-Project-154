@@ -53,26 +53,13 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 
 ### Structure
 
-All pages will contain a sticky navigation bar at the top. This will become collapsable when on a mobile device. This will also be the only thing that is in the header.
-<br>
-<br>
-All pages will contain social media icons and contact information in the footer. On a mobile device only the icons will show.
-<br>
-<br>
-All pages will be responsive and the layouts will change according to the screen size.
-<br>
-<br>
-The Home page will outline what the business does.
-<br>
-<br>
-The Tarmac page will display what a tarmac drive will look like and the pro's of choosing it.
-<br>
-<br>
-The Paving page will display what a block paving drive will look like and the pro's of choosing it.
-<br>
-<br>
-The Contact page will display the buisness's contact information as well as a form that a customer can fill out to request a quotation.
-<br>
+* All pages will contain a sticky navigation bar at the top. This will become collapsable when on a mobile device. This will also be the only thing that is in the header.
+* All pages will contain social media icons and contact information in the footer. On a mobile device only the icons will show.
+* All pages will be responsive and the layouts will change according to the screen size.
+* The Home page will outline what the business does.
+* The Tarmac page will display what a tarmac drive will look like and the pro's of choosing it.
+* The Paving page will display what a block paving drive will look like and the pro's of choosing it.
+* The Contact page will display the buisness's contact information as well as a form that a customer can fill out to request a quotation.
 <br>
 <br>
 
