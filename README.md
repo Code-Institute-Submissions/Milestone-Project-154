@@ -58,7 +58,6 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 * The Tarmac page will display what a tarmac drive will look like and the pro's of choosing it.
 * The Paving page will display what a block paving drive will look like and the pro's of choosing it.
 * The Contact page will display the buisness's contact information as well as a form that a customer can fill out to request a quotation.
-<br>
 
 ### Design
 
@@ -125,7 +124,6 @@ To see the wireframes for all pages on both desktop and mobile view please click
 * The name field will require a text input, the telephone field will require a number input and the email field will require a email input. The message field will be flexible and can have any input.
 * All fields will be mandatory to fill out. 
 * There will also be a submit button, but this can't be used unless all fields are filled out correctly. If the fields aren't filled out correctly a error message will display when clicking submit. 
-<br>
 
 ### Features Left to Implement
 
@@ -192,7 +190,6 @@ Below is all the tests that have been carried out to ensure the website is funct
 7. Click on the Instagram icon in the footer and ensure it goes to the home page of Instagram.
 8. Click on the Youtube icon in the footer and ensure it goes to the home page of Youtube.
 <br>
-<br>
 
 **Test that the carousel gallery on the Tarmac and Paving page automatically slides and can change slide with user input.**
 <br>
@@ -200,7 +197,6 @@ Below is all the tests that have been carried out to ensure the website is funct
 2. Wait 10 seconds and ensure the gallery automatically slides to the next picture.
 3. Click the left/right arrow and ensure the gallery goes to the previous/next picture.
 4. Repeat steps 2 & 3 for the Paving page.
-<br>
 <br>
 
 **Test that the input fields for the contact form are all mandatory.**
@@ -210,14 +206,12 @@ Below is all the tests that have been carried out to ensure the website is funct
 3. Hit the submit button and ensure an error message pops up asking to fill out the name field.
 4. Repeat steps 2 & 3 and ensure all fields are mandatory.
 <br>
-<br>
 
 **Test that the navigation bar is sticky and always stays on the page.**
 <br>
 1. Open the website in browser.
 2. Scroll down the page and ensure the navigation bar is still visible.
 3. Repeat step 2 for all pages.
-<br>
 <br>
 
 **Test that the footer always stays at the bottom of the page.**
@@ -226,14 +220,12 @@ Below is all the tests that have been carried out to ensure the website is funct
 2. Scroll down the page and ensure that the footer is at the bottom of the screen.
 3. Repeat step 2 for all pages.
 <br>
-<br>
 
 **Test that the navigation links and social media icons have a hover effect.**
 <br>
 1. Open the website in browser.
 2. Hover over the navigation links and ensure the colour changes to yellow.
 3. Repeat step 2 for the social media icons in the footer.
-<br>
 
 ## Issues
 
@@ -263,7 +255,6 @@ To resolve this I added more text content to the Home, Tarmac and Paving pages.
 * Go to the Open Ports tab next to the command console.
 * Click the Open Browser button for port 3000, this will display a preview of the website.
 <br>
-<br>
 
 **GitHub Deployment**
 <br>
@@ -272,7 +263,6 @@ To resolve this I added more text content to the Home, Tarmac and Paving pages.
 * Scroll down to "GitHub Pages" and select the branch as master and the folder as root.
 * Save the changes.
 * Click on the provided link to go to the published website.
-<br>
 
 ## Credits
 
