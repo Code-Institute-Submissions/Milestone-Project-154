@@ -191,6 +191,36 @@ Below is all the tests that have been carried out to ensure the website is funct
 3. Repeat step 2 for the social media icons in the footer.
 <br>
 
+## Supported Browsers & Devices
+
+Below is all the browsers and devices the website has been tested on.
+<br>
+<br>
+**Google Chrome (Right clicked the page and selected Inspect then Toggle Device Toolbar)**
+<br>
+**Microsoft Edge (Right clicked the page and selected Inspect then Toggle Device Emulation)**
+* Moto G4
+* Galaxy S5
+* Pixel 2
+* Pixel 2 XL
+* iPhone 5/SE
+* iPhone 6/7/8
+* iPhone 6/7/8 Plus
+* iPhone X
+* iPad
+* iPad Pro
+* Surface Duo
+* Galaxy Fold
+<br>
+
+**Firefox (Right clicked the page and selected Inspect Element then Responsive Design Mode)**
+* Galaxy S9/S9+
+* iPad
+* iPhone 6/7/8
+* iPhone 6/7/8 Plus
+* iPhone X/XS
+* Kindle Fire HDX
+<br>
 
 ## User Story Screenshots
 
