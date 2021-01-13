@@ -242,7 +242,7 @@ This has been used to create the wireframes for the project.
 
 Below is all the tests that have been carried out.
 <br>
-
+<br>
 **Test that all links are working and go the the correct page.**
 <br>
 1. Open website in browser.
@@ -253,6 +253,22 @@ Below is all the tests that have been carried out.
 6. Click on the Facebook icon in the footer and ensure it goes to the home page of Facebook.
 7. Click on the Instagram icon in the footer and ensure it goes to the home page of Instagram.
 8. Click on the Youtube icon in the footer and ensure it goes to the home page of Youtube.
+<br>
+<br>
+**Test that the carousel gallery on the Tarmac and Paving page automatically slides and can change slide with user input.**
+<br>
+1. Open website in browser and go to the Tarmac page.
+2. Wait 10 seconds and ensure the gallery automatically slides to the next picture.
+3. Click the left/right arrow and ensure the gallery goes to the previous/next picture.
+4. Repeat steps 2 & 3 for the Paving page.
+<br>
+<br>
+**Test that the input fields for the contact form are all mandatory.**
+<br>
+1. Open website in browser and go to the Contact page.
+2. In the contact form type in a telephone, email and message.
+3. Hit the submit button and ensure an error message pops up asking to fill out the name field.
+4. Repeat steps 2 & 3 and ensure all fields are mandatory.
 <br>
 <br>
 <br>
