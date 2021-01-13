@@ -8,7 +8,6 @@ The purpose of the website for Empire Drives is to promote their business and sh
 
 https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
-<br>
  
 ## UX
 
@@ -49,7 +48,6 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 [Screenshot of user story being fulfilled](static/images/userstory2.jpg)
 <br>
-<br>
 
 ### Structure
 
@@ -86,7 +84,6 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 To see the wireframes for all pages on both desktop and mobile view please click the below link.
 <br>
 [Wireframes](wireframes/wireframes.pdf)
-<br>
 <br>
 
 ## Features
@@ -136,7 +133,6 @@ To see the wireframes for all pages on both desktop and mobile view please click
 <br>
 The customer would like a page for customer reviews. It will need a review form that the customer will need to fill out to submit their review. This will then need to be checked by the customer before it goes onto the page to prevent any spam. This was not apart of the original plan and will be implemented in the future. 
 <br>
-<br>
 
 ## Technologies Used
 
@@ -178,7 +174,6 @@ This has been used to inspect the web pages and debug any issues.
 **Balsamiq Wireframes**
 <br>
 This has been used to create the wireframes for the project.
-<br>
 <br>
 
 ## Testing
@@ -239,7 +234,6 @@ Below is all the tests that have been carried out to ensure the website is funct
 2. Hover over the navigation links and ensure the colour changes to yellow.
 3. Repeat step 2 for the social media icons in the footer.
 <br>
-<br>
 
 ## Issues
 
@@ -258,7 +252,6 @@ To resolve this I made the nav bar links appear vertical rather than horizontal.
 **There was alot of space between the section and footer on larger devices**
 <br>
 To resolve this I added more text content to the Home, Tarmac and Paving pages.
-<br>
 <br>
 
 ## Deployment
@@ -279,6 +272,7 @@ To resolve this I added more text content to the Home, Tarmac and Paving pages.
 * Scroll down to "GitHub Pages" and select the branch as master and the folder as root.
 * Save the changes.
 * Click on the provided link to go to the published website.
+<br>
 
 ## Credits
 
