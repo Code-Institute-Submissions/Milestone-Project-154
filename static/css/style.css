@@ -204,10 +204,7 @@ img {
 	font-size: 16px;
 }
 
-#exampleInputName1,
-#exampleInputPhone1,
-#exampleInputEmail1,
-#exampleInputMessage1 {
+.form-contol {
 	text-align: center;
 }
 
