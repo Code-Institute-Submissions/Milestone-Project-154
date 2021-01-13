@@ -189,6 +189,11 @@ Below is all the tests that have been carried out to ensure the website is funct
 1. Open the website in browser.
 2. Hover over the navigation links and ensure the colour changes to yellow.
 3. Repeat step 2 for the social media icons in the footer.
+
+### Code Validation
+
+* HTML files have been validated using the W3C HTML Validation Service website.
+* CSS file has been validated using the W3C CSS Validation Service website.
 <br>
 
 ## Supported Browsers & Devices
