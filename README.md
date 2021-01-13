@@ -61,7 +61,6 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 * The Paving page will display what a block paving drive will look like and the pro's of choosing it.
 * The Contact page will display the buisness's contact information as well as a form that a customer can fill out to request a quotation.
 <br>
-<br>
 
 ### Design
 
@@ -280,8 +279,6 @@ To resolve this I added more text content to the Home, Tarmac and Paving pages.
 * Scroll down to "GitHub Pages" and select the branch as master and the folder as root.
 * Save the changes.
 * Click on the provided link to go to the published website.
-<br>
-<br>
 
 ## Credits
 
