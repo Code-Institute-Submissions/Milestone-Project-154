@@ -9,7 +9,6 @@ The purpose of the website for Empire Drives is to promote their business and sh
 https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 <br>
-<br>
  
 ## UX
 
@@ -24,7 +23,6 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 [Screenshot of user story being fulfilled](static/images/userstory1.jpg)
 <br>
 <br>
-<br>
 **Who** – Customer.
 <br>
 **Want** – A quick quotation.
@@ -32,7 +30,6 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 **Why** – To compare prices with other quotes I have received.
 <br>
 [Screenshot of user story being fulfilled](static/images/userstory2.jpg)
-<br>
 <br>
 <br>
 **Who** – Customer.
@@ -44,7 +41,6 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 [Screenshot of user story being fulfilled](static/images/userstory3.jpg)
 <br>
 <br>
-<br>
 **Who** – Customer.
 <br>
 **Want** – Contact details.
@@ -52,7 +48,6 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 **Why** – So I can contact the business directly, rather than waiting for them to see my enquiry and contact me.
 <br>
 [Screenshot of user story being fulfilled](static/images/userstory2.jpg)
-<br>
 <br>
 <br>
 
