@@ -240,7 +240,7 @@ This has been used to create the wireframes for the project.
 
 ## Testing
 
-Below is all the tests that have been carried out.
+Below is all the tests that have been carried out to ensure the website is functioning correctly.
 <br>
 <br>
 **Test that all links are working and go the the correct page.**
@@ -255,6 +255,7 @@ Below is all the tests that have been carried out.
 8. Click on the Youtube icon in the footer and ensure it goes to the home page of Youtube.
 <br>
 <br>
+<br>
 **Test that the carousel gallery on the Tarmac and Paving page automatically slides and can change slide with user input.**
 <br>
 1. Open website in browser and go to the Tarmac page.
@@ -263,12 +264,37 @@ Below is all the tests that have been carried out.
 4. Repeat steps 2 & 3 for the Paving page.
 <br>
 <br>
+<br>
 **Test that the input fields for the contact form are all mandatory.**
 <br>
 1. Open website in browser and go to the Contact page.
 2. In the contact form type in a telephone, email and message.
 3. Hit the submit button and ensure an error message pops up asking to fill out the name field.
 4. Repeat steps 2 & 3 and ensure all fields are mandatory.
+<br>
+<br>
+<br>
+**Test that the navigation bar is sticky and always stays on the page.**
+<br>
+1. Open the website in browser.
+2. Scroll down the page and ensure the navigation bar is still visible.
+3. Repeat step 2 for all pages.
+<br>
+<br>
+<br>
+**Test that the footer always stays at the bottom of the page.**
+<br>
+1. Open the website in browser.
+2. Scroll down the page and ensure that the footer is at the bottom of the screen.
+3. Repeat step 2 for all pages.
+<br>
+<br>
+<br>
+**Test that the navigation links and social media icons have a hover effect.**
+<br>
+1. Open the website in browser.
+2. Hover over the navigation links and ensure the colour changes to yellow.
+3. Repeat step 2 for the social media icons in the footer.
 <br>
 <br>
 <br>
