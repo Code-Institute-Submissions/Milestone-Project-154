@@ -114,14 +114,12 @@ To see the wireframes for all pages on both desktop and mobile view please click
 * The footer will also contact a section of text which will display contact information.
 * The mobile view will get rid of the navigation bar and instead have a navigation button. When clicking this button the 4 navigation links will appear vertically on the page. 
 <br>
-<br>
 
 **Home Page**
 <br>
 * The body will contain the name of the business, Empire Drives. It will also have an image of previous work that has been carried out by the business.
 * It will have a section of text which outlines who the business is, what services they offer and what customers had to say about their work. 
 * Below the text there will be a "Request A Free Quotation" button which will link to the Contact Page.
-<br>
 <br>
 
 **Tarmac Page**
@@ -130,14 +128,12 @@ To see the wireframes for all pages on both desktop and mobile view please click
 * Clicking on the right side of the picture will take you to the next picture, clicking on the left side will take you to the previous picture.
 * Below the gallery there will be a section of text explaining the pros of going with a tarmac drive.
 <br>
-<br>
 
 **Paving Page**
 <br>
 * The body will contain the name of the page, Paving. It will also have a carousal gallery which will display pictures of a paving drive.
 * Clicking on the right side of the picture will take you to the next picture, clicking on the left side will take you to the previous picture. 
 * Below the gallery there will be a section of text explaining the pros of going with a paving drive.
-<br>
 <br>
 
 **Contact Page**
@@ -146,7 +142,6 @@ To see the wireframes for all pages on both desktop and mobile view please click
 * The name field will require a text input, the telephone field will require a number input and the email field will require a email input. The message field will be flexible and can have any input.
 * All fields will be mandatory to fill out. 
 * There will also be a submit button, but this can't be used unless all fields are filled out correctly. If the fields aren't filled out correctly a error message will display when clicking submit. 
-<br>
 <br>
 
 ### Features Left to Implement
