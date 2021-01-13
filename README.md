@@ -19,16 +19,12 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 **Why** – So it gives me a better idea of what I want and what kind of service the business offers.
 <br>
-[Screenshot of user story being fulfilled](static/images/userstory1.jpg)
-<br>
 <br>
 **Who** – Customer.
 <br>
 **Want** – A quick quotation.
 <br>
 **Why** – To compare prices with other quotes I have received.
-<br>
-[Screenshot of user story being fulfilled](static/images/userstory2.jpg)
 <br>
 <br>
 **Who** – Customer.
@@ -37,8 +33,6 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 **Why** – So I know what driveway to go for.
 <br>
-[Screenshot of user story being fulfilled](static/images/userstory3.jpg)
-<br>
 <br>
 **Who** – Customer.
 <br>
@@ -46,9 +40,6 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 <br>
 **Why** – So I can contact the business directly, rather than waiting for them to see my enquiry and contact me.
 <br>
-[Screenshot of user story being fulfilled](static/images/userstory2.jpg)
-<br>
-
 ### Structure
 
 * All pages will contain a sticky navigation bar at the top. This will become collapsable when on a mobile device. This will also be the only thing that is in the header.
@@ -193,6 +184,13 @@ Below is all the tests that have been carried out to ensure the website is funct
 1. Open the website in browser.
 2. Hover over the navigation links and ensure the colour changes to yellow.
 3. Repeat step 2 for the social media icons in the footer.
+
+## User Story Screenshots
+
+* [Screenshot of first user story being fulfilled](static/images/userstory1.jpg)
+* [Screenshot of second user story being fulfilled](static/images/userstory2.jpg)
+* [Screenshot of  third user story being fulfilled](static/images/userstory3.jpg)
+* [Screenshot of  fourth user story being fulfilled](static/images/userstory2.jpg)
 
 ## Issues
 
