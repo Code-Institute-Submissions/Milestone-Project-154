@@ -256,6 +256,7 @@ Below is all the tests that have been carried out to ensure the website is funct
 <br>
 <br>
 <br>
+
 **Test that the carousel gallery on the Tarmac and Paving page automatically slides and can change slide with user input.**
 <br>
 1. Open website in browser and go to the Tarmac page.
@@ -265,6 +266,7 @@ Below is all the tests that have been carried out to ensure the website is funct
 <br>
 <br>
 <br>
+
 **Test that the input fields for the contact form are all mandatory.**
 <br>
 1. Open website in browser and go to the Contact page.
@@ -274,6 +276,7 @@ Below is all the tests that have been carried out to ensure the website is funct
 <br>
 <br>
 <br>
+
 **Test that the navigation bar is sticky and always stays on the page.**
 <br>
 1. Open the website in browser.
@@ -282,6 +285,7 @@ Below is all the tests that have been carried out to ensure the website is funct
 <br>
 <br>
 <br>
+
 **Test that the footer always stays at the bottom of the page.**
 <br>
 1. Open the website in browser.
@@ -290,6 +294,7 @@ Below is all the tests that have been carried out to ensure the website is funct
 <br>
 <br>
 <br>
+
 **Test that the navigation links and social media icons have a hover effect.**
 <br>
 1. Open the website in browser.
