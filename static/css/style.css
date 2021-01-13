@@ -2,368 +2,377 @@
 
 /* ---------------------------------------------HTML/Body */
 
-html, body {
-    background-color: #a6a6a6;
-    height: 100%;
-    margin: 0;
+html,
+body {
+	background-color: #a6a6a6;
+	height: 100%;
+	margin: 0;
 }
+
 
 /* ---------------------------------------------Heading */
 
 .nav-container {
-    margin: auto;
+	margin: auto;
 }
 
+
 /* Navigation font style, size, positioning and colour */
+
 .nav-link {
-    font-family: "Roboto", sans-serif;
-    font-weight: 600;
-    font-size: 15px;
-    text-transform: uppercase;
-    margin-top: 60px; 
-    color: #a6a6a6;
+	font-family: "Roboto", sans-serif;
+	font-weight: 600;
+	font-size: 15px;
+	text-transform: uppercase;
+	margin-top: 60px;
+	color: #a6a6a6;
 }
 
 .sticky-top {
-    position: sticky;
+	position: sticky;
 }
+
 
 /* ---------------------------------------------Section */
 
 section {
-    min-height: 100%;
-    margin-bottom: -50px;
+	min-height: 100%;
+	margin-bottom: -50px;
 }
 
 .push {
-    height:50px;
-    display: block;
+	height: 50px;
+	display: block;
 }
 
+
 /* Page name font style, size, positioning and colour */
+
 .page-name {
-  font-family: "Expletus+Sans", sans-serif;  
-  text-transform: uppercase;
-  text-align: center;
-  color: #FFFF00;
-  padding-top: 85px;
-  font-size: 100px;
+	font-family: "Expletus+Sans", sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+	color: #FFFF00;
+	padding-top: 85px;
+	font-size: 100px;
 }
 
 .header-line {
-    border: 1px solid #FFFF00;
-    width: 50%;
+	border: 1px solid #FFFF00;
+	width: 50%;
 }
 
 .home-image {
-    text-align: center;
-    display: block;
-    padding-top: 25px;
+	text-align: center;
+	display: block;
+	padding-top: 25px;
 }
+
 
 /* Home text font style, size, positioning and colour */
+
 .home-text {
-    font-family: "Roboto", sans-serif;
-    text-align: center;
-    display: block;
-    color: #ffffff;
-    font-weight: 400;
-    font-size: 16px;
-    padding-top: 30px;
-    padding-bottom: 25px;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+	display: block;
+	color: #ffffff;
+	font-weight: 400;
+	font-size: 16px;
+	padding-top: 30px;
+	padding-bottom: 25px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
+
 /* Review text font style, size, positioning and colour */
+
 .review-text {
-    font-family: "Roboto", sans-serif;
-    text-align: center;
-    display: block;
-    color: #000000;
-    font-weight: 400;
-    font-size: 16px;
-    font-style: italic;
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;  
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+	display: block;
+	color: #000000;
+	font-weight: 400;
+	font-size: 16px;
+	font-style: italic;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 img {
-    max-width: 100%;
-    height: auto;
+	max-width: 100%;
+	height: auto;
 }
 
 .button {
-    text-align: center;
-    padding-bottom: 100px;
+	text-align: center;
+	padding-bottom: 100px;
 }
 
 #quote-button {
-    font-weight: 600;
+	font-weight: 600;
 }
 
 .carousel-drive {
-    width: 45%;
-    margin: auto;
-    padding-top: 25px;
-    padding-bottom: 25px;
+	width: 45%;
+	margin: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
+
 
 /* Tarmac/Paving text font style, size, positioning and colour */
+
 .tarmac-paving-text {
-    font-family: "Roboto", sans-serif;
-    text-align: center;
-    display: block;
-    color: #ffffff;
-    font-weight: 400;
-    font-size: 16px;
-    padding-top: 5px;
-    padding-bottom: 100px;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+	display: block;
+	color: #ffffff;
+	font-weight: 400;
+	font-size: 16px;
+	padding-top: 5px;
+	padding-bottom: 100px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
+
 /* Tarmac/Paving header font style, size, positioning and colour */
+
 .tarmac-paving-header {
-    font-family: "Roboto", sans-serif;
-    text-align: center;
-    display: block;
-    color: #000000;
-    font-weight: 500;
-    font-size: 20px;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+	display: block;
+	color: #000000;
+	font-weight: 500;
+	font-size: 20px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .contact-section {
-    text-align: center;
-    padding-top: 20px;
+	text-align: center;
+	padding-top: 20px;
 }
+
 
 /* Contact text font style, size, positioning and colour */
+
 .contact-text {
-    font-family: "Roboto", sans-serif;
-    text-align: center;
-    display: block;
-    color: #000000;
-    font-weight: 400;
-    font-size: 16px;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+	display: block;
+	color: #000000;
+	font-weight: 400;
+	font-size: 16px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 
 /* Contact information font style, size, positioning and colour */
+
 .contact-information {
-    font-family: "Roboto", sans-serif;
-    text-align: center;
-    display: block;
-    color: #ffffff;
-    font-weight: 500;
-    font-size: 20px;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+	display: block;
+	color: #ffffff;
+	font-weight: 500;
+	font-size: 20px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 
 /* Contact form font style, size, positioning and colour */
+
 .contact-form {
-   width: 40%;
-   margin-left: auto;
-   margin-right: auto;
-   padding-top: 40px;
-   padding-bottom: 100px;
-   font-family: "Roboto", sans-serif;
-   color: #000000;
-   font-weight: 500;
-   font-size: 16px;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 40px;
+	padding-bottom: 100px;
+	font-family: "Roboto", sans-serif;
+	color: #000000;
+	font-weight: 500;
+	font-size: 16px;
 }
 
-#exampleInputName1, #exampleInputPhone1, #exampleInputEmail1, #exampleInputMessage1 {
-    text-align: center;
+#exampleInputName1,
+#exampleInputPhone1,
+#exampleInputEmail1,
+#exampleInputMessage1 {
+	text-align: center;
 }
 
 #exampleInputMessage1 {
-height: 100px;
+	height: 100px;
 }
+
 
 /* ---------------------------------------------Footer*/
 
 .footer {
-    text-align: center;
-    width: 100%; 
-    height: 50px;
+	text-align: center;
+	width: 100%;
+	height: 50px;
 }
 
+
 /* Contact footer font style, size and positioning */
+
 .contact-footer {
-    font-family: "Roboto", sans-serif;
-    text-align: center;
-    font-size: 13px;
-    font-weight: 500;
-    display: inline-block;
-    padding-right: 10px;
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+	font-size: 13px;
+	font-weight: 500;
+	display: inline-block;
+	padding-right: 10px;
 }
 
 .social-links li a i {
-    font-size: 40px;
-    text-align: center;
-    color: #000000;
+	font-size: 40px;
+	text-align: center;
+	color: #000000;
 }
 
 .list-inline {
-    display: inline-block;
-    padding-left: 10px;
+	display: inline-block;
+	padding-left: 10px;
 }
+
 
 /* ---------------------------------------------Hover.css */
 
 a:hover {
-    color: #FFFF00;
+	color: #FFFF00;
 }
 
 .social-links li a i:hover {
-    color: #FFFF00;
+	color: #FFFF00;
 }
 
 a:active {
-    color: #FFFF00;
+	color: #FFFF00;
 }
+
 
 /* ---------------------------------------------Media Queries*/
 
 @media (max-width: 420px) {
-
-.nav-container {
-    width: 20%;
-    padding-right: 54px;
-}
-
-.nav-link {
-    margin-top: 0;
-}
-
-section {
-    min-height: 90%;
-}
-
-.contact-footer {
-    display: none;
-}
-
-.list-inline {
-    padding-left: 0px;
-}
-
-.page-name {
-    font-size: 50px;
-    padding-top: 50px;
-}
-
-.header-line {
-    width: 75%;
-}
-
-.home-image {
-    width: 80%;
-    margin: auto;
-}
-
-.home-text, .tarmac-paving-text, .review-text, .contact-text {
-    font-size: 12px;
-    width: 85%;
-}
-
-.tarmac-paving-header, .contact-information {
-    font-size: 15px;
-    width: 60%;
-}
-
-.button {
-    width: 75%;
-    margin: auto;
-}
-
-#quote-button {
-    font-size: 12px;
-}
-
-.carousel-drive {
-    width: 80%;
-}
-
-.contact-form {
-    width: 65%;
-    font-size: 13px;
-}
-
+	.nav-container {
+		width: 20%;
+		padding-right: 54px;
+	}
+	.nav-link {
+		margin-top: 0;
+	}
+	section {
+		min-height: 90%;
+	}
+	.contact-footer {
+		display: none;
+	}
+	.list-inline {
+		padding-left: 0px;
+	}
+	.page-name {
+		font-size: 50px;
+		padding-top: 50px;
+	}
+	.header-line {
+		width: 75%;
+	}
+	.home-image {
+		width: 80%;
+		margin: auto;
+	}
+	.home-text,
+	.tarmac-paving-text,
+	.review-text,
+	.contact-text {
+		font-size: 12px;
+		width: 85%;
+	}
+	.tarmac-paving-header,
+	.contact-information {
+		font-size: 15px;
+		width: 60%;
+	}
+	.button {
+		width: 75%;
+		margin: auto;
+	}
+	#quote-button {
+		font-size: 12px;
+	}
+	.carousel-drive {
+		width: 80%;
+	}
+	.contact-form {
+		width: 65%;
+		font-size: 13px;
+	}
 }
 
 @media (max-width: 800px) and (min-width: 420px) {
-
-.nav-container {
-    width: 100%;
+	.nav-container {
+		width: 100%;
+	}
+	section {
+		min-height: 80%;
+	}
+	.contact-footer {
+		display: none;
+	}
+	.list-inline {
+		padding-left: 0px;
+	}
+	.page-name {
+		font-size: 60px;
+		padding-top: 60px;
+	}
+	.header-line {
+		width: 75%;
+	}
+	.home-image {
+		width: 80%;
+		margin: auto;
+	}
+	.home-text,
+	.tarmac-paving-text,
+	.review-text,
+	.contact-text {
+		font-size: 14px;
+		width: 85%;
+	}
+	.carousel-drive {
+		width: 80%;
+	}
+	.contact-form {
+		width: 65%;
+		font-size: 14px;
+	}
 }
-
-section {
-    min-height: 80%;
-}
-
-.contact-footer {
-    display: none;
-}
-
-.list-inline {
-    padding-left: 0px;
-}
-
-.page-name {
-    font-size: 60px;
-    padding-top: 60px;
-}
-
-.header-line {
-    width: 75%;
-}
-
-.home-image {
-    width: 80%;
-    margin: auto;
-}
-
-.home-text, .tarmac-paving-text, .review-text, .contact-text {
-    font-size: 14px;
-    width: 85%;
-}
-
-.carousel-drive {
-    width: 80%;
-}
-
-.contact-form {
-    width: 65%;
-    font-size: 14px;
-}
-
-}    
 
 @media (max-height: 1400px) and (min-height: 1200px) {
-    
-section {
-    min-height: 91%;
-}
-
-.home-text, .tarmac-paving-text, .review-text, .contact-text {
-    font-size: 15px;
-    width: 75%;
-}
-
-.carousel-drive {
-    width: 80%;
-}
-
+	section {
+		min-height: 91%;
+	}
+	.home-text,
+	.tarmac-paving-text,
+	.review-text,
+	.contact-text {
+		font-size: 15px;
+		width: 75%;
+	}
+	.carousel-drive {
+		width: 80%;
+	}
 }
