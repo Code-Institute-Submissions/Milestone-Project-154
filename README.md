@@ -240,7 +240,7 @@ Below is all the browsers and devices the website has been tested on.
 
 **Footer would not stay at the bottom**
 <br>
-To resolve this I made the footer sticky by using code from the following website.
+To resolve this I made the footer sticky by using code from the first section of the following website.
 <br>
 https://css-tricks.com/couple-takes-sticky-footer/
 <br>
@@ -255,7 +255,16 @@ To resolve this I made the nav bar links appear vertical rather than horizontal.
 To resolve this I added more text content to the Home, Tarmac and Paving pages.
 <br>
 <br>
-
+**Carousel gallery was too small on mobile devices**
+<br>
+To resolve this I increased the width of the gallery in the media query for mobile devices.
+<br>
+<br>
+**Social media icon links were not opening up on a new web page**
+<br>
+To resolve this I set the rel attribute to noreferrer noopener on all social media icon links.
+<br>
+<br>
 ## Deployment
 
 **GitPod Deployment**
