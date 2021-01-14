@@ -54,7 +54,7 @@ https://sanjaysanghera.github.io/Milestone-Project-1/
 ### Design
 
 #### Colour Scheme
-**Light Grey** - Background and navigzation links.
+**Light Grey** - Background and navigation links.
 <br>
 **Yellow** - Page header and hover affect on the navigation links.
 <br>
@@ -84,7 +84,7 @@ To see the wireframes for all pages on both desktop and mobile view please click
 <br>
 * The header will contain a navigation bar. This will have 4 links which will direct you to the following pages; Home, Tarmac, Paving & Contact.
 * The footer will contain 3 social media icons for Facebook, Instagram & Youtube which will direct you to the website of the icon selected.
-* The footer will also contact a section of text which will display contact information.
+* The footer will also have a section of text which will display contact information.
 * The mobile view will get rid of the navigation bar and instead have a navigation button. When clicking this button the 4 navigation links will appear vertically on the page. 
 <br>
 
